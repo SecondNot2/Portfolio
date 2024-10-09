@@ -3,6 +3,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import { ExternalLink, Github } from 'lucide-react';
+import FashionShop from '../public/images/FashionShop.png';
+import Portfolio from '../public/images/Portfolio.png';
 
 interface Project {
   id: number;
@@ -29,7 +31,7 @@ const Projects: React.FC = () => {
       id: 1,
       title: 'Fashion Website',
       descriptionKey: 'fashionWebsite',
-      image: 'src/public/images/FashionShop.png',
+      image: FashionShop,
       tags: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Firebase'],
       category: 'Web Development',
       liveUrl: 'https://example.com/fashion-website',
@@ -39,11 +41,11 @@ const Projects: React.FC = () => {
       id: 2,
       title: 'Personal Portfolio Website',
       descriptionKey: 'portfolioWebsite',
-      image: 'src/public/images/Portfolio.png',
+      image: Portfolio,
       tags: ['TypeScript', 'JavaScript', 'Tailwind CSS', 'Vite'],
       category: 'Web Development',
-      liveUrl: 'https://example.com/portfolio',
-      githubUrl: 'https://github.com/SecondNot2/My-Portfolio',
+      liveUrl: 'https://202-portfolio.netlify.app/',
+      githubUrl: 'https://github.com/SecondNot2/Portfolio',
     },
   ];
 
