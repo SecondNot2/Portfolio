@@ -1,0 +1,75 @@
+{
+  "siteTitle": "My Portfolio",
+  "header": {
+    "logo": "Portfolio",
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "toggleTheme": "Toggle theme",
+    "toggleLanguage": "Toggle language"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "home": {
+    "title": "Welcome",
+    "description": "Welcome to my personal portfolio website",
+    "greeting": "Hi, I'm Quoc Thang",
+    "intro": "I'm an amateur developer ^.^",
+    "cta": "View My Work"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Learn more about my background and experience",
+    "imageAlt": "Profile picture",
+    "paragraph1": "Hello! I am someone with a special passion for programming, currently focusing on developing skills in both Web and App. I love creating digital products that are not only visually appealing but also provide a smooth user experience. With knowledge of HTML, CSS, JavaScript, ReactJS, and React Native, I am confident in developing applications from front-end to back-end, using languages such as C#, Python, and database management systems like MySQL, SQL Server and MongoDB.",
+    "paragraph2": "I am always looking for opportunities to explore and apply new technologies while continuously improving my programming skills. Participating in open-source projects and connecting with the developer community helps me learn from those who came before and share my knowledge.",
+    "paragraph3": "If you are looking for a passionate developer proficient in multiple languages and technologies, ready to embrace challenges to develop high-quality digital products, I would be delighted to collaborate with you.",
+    "downloadResume": "Download Resume"
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Explore my technical skills and expertise"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Check out some of my recent work",
+    "liveDemo": "Live Demo",
+    "github": "GitHub",
+    "noProjects": "This project is currently under development :]",
+    "categories": {
+      "all": "All",
+      "webDevelopment": "Web Development",
+      "mobileApplications": "Mobile Applications",
+      "desktopSoftware": "Desktop Software",
+      "dataScience": "Data Science",
+      "artificialIntelligence": "Artificial Intelligence",
+      "internetOfThings": "Internet of Things (IoT)",
+      "gameDevelopment": "Game Development",
+      "cloudComputing": "Cloud Computing",
+      "cybersecurity": "Cybersecurity"
+    },
+    "projectDescriptions": {
+      "fashionWebsite": "A fashion website built with JavaScript, TypeScript, HTML, CSS, and Firebase.",
+      "portfolioWebsite": "My portfolio website built with TypeScript, JavaScript, Tailwind CSS, and Vite."
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Get in touch with me for collaborations or opportunities",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitButton": "Send Message",
+    "successMessage": "Thank you for your message. I'll get back to you soon!",
+    "errorMessage": "Oops! Something went wrong. Please try again later."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The requested page could not be found",
+    "message": "Oops! The page you're looking for doesn't exist.",
+    "homeButton": "Go to Homepage"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "siteTitle": "Hồ Sơ Cá Nhân",
+  "header": {
+    "logo": "Hồ Sơ",
+    "home": "Trang Chủ",
+    "about": "Giới Thiệu",
+    "skills": "Kỹ Năng",
+    "projects": "Dự Án",
+    "contact": "Liên Hệ",
+    "toggleTheme": "Đổi giao diện",
+    "toggleLanguage": "Đổi ngôn ngữ"
+  },
+  "footer": {
+    "copyright": "Đã đăng ký bản quyền."
+  },
+  "home": {
+    "title": "Chào Mừng",
+    "description": "Chào mừng đến với trang web hồ sơ cá nhân của tôi",
+    "greeting": "Xin chào, tôi là Quốc Thắng",
+    "intro": "Tôi là một lập trình viên nghiệp dư ^.^",
+    "cta": "Xem Công Việc Của Tôi"
+  },
+  "about": {
+    "title": "Về Tôi",
+    "description": "Tìm hiểu thêm về nền tảng và kinh nghiệm của tôi",
+    "imageAlt": "Ảnh đại diện",
+    "paragraph1": "Xin chào! Tôi là một người có niềm đam mê đặc biệt đối với lập trình, hiện tôi đang tập trung phát triển kỹ năng trong cả mảng Web và App. Tôi yêu thích vic tạo ra những sản phẩm kỹ thuật số vừa đẹp mắt, vừa mang lại trải nghiệm người dùng mượt mà. Với kiến thức về HTML, CSS, JavaScript, ReactJS, và React Native, tôi tự tin trong việc phát triển các ứng dụng từ front-end đến back-end, sử dụng ngôn ngữ như C#, Python và các hệ quản trị cơ sở dữ liệu như MySQL, SQL Server và MongoDB.",
+    "paragraph2": "Tôi luôn tìm kiếm cơ hội để khám phá và ứng dụng các công nghệ mới, đồng thời không ngừng hoàn thiện kỹ năng lập trình của mình. Việc tham gia các dự án mã nguồn mở và kết nối với cộng đồng lập trình viên giúp tôi học hỏi từ những người đi trước và chia sẻ kiến thức của mình.",
+    "paragraph3": "Nếu bạn đang tìm kiếm một lập trình viên nhiệt huyết, thành thạo nhiều ngôn ngữ và công nghệ, sẵn sàng đón nhận thử thách để phát triển những sản phẩm số chất lượng cao, tôi rất hân hạnh được hợp tác cùng bạn.",
+    "downloadResume": "Tải CV"
+  },
+  "skills": {
+    "title": "Kỹ Năng",
+    "description": "Khám phá các kỹ năng và chuyên môn kỹ thuật của tôi"
+  },
+  "projects": {
+    "title": "Dự Án",
+    "description": "Xem một số công việc gần đây của tôi",
+    "liveDemo": "Demo Trực Tiếp",
+    "github": "GitHub",
+    "noProjects": "Dự án này hiện đang phát triển :]",
+    "categories": {
+      "all": "Tất cả",
+      "webDevelopment": "Phát triển Web",
+      "mobileApplications": "Ứng dụng Di động",
+      "desktopSoftware": "Phần mềm Máy tính",
+      "dataScience": "Khoa học Dữ liệu",
+      "artificialIntelligence": "Trí tuệ Nhân tạo",
+      "internetOfThings": "Internet vạn vật (IoT)",
+      "gameDevelopment": "Phát triển Game",
+      "cloudComputing": "Điện toán Đám mây",
+      "cybersecurity": "An ninh mạng"
+    },
+    "projectDescriptions": {
+      "fashionWebsite": "Một trang web thời trang được xây dựng bằng JavaScript, TypeScript, HTML, CSS và Firebase.",
+      "portfolioWebsite": "Trang web portfolio của tôi được xây dựng bằng TypeScript, JavaScript, Tailwind CSS và Vite."
+    }
+  },
+  "contact": {
+    "title": "Liên Hệ Với Tôi",
+    "description": "Liên hệ với tôi để hợp tác hoặc tìm kiếm cơ hội",
+    "nameLabel": "Tên",
+    "emailLabel": "Email",
+    "messageLabel": "Tin nhắn",
+    "submitButton": "Gửi Tin Nhắn",
+    "successMessage": "Cảm ơn bạn đã gửi tin nhắn. Tôi sẽ liên hệ lại sớm!",
+    "errorMessage": "Rất tiếc! Đã xảy ra lỗi. Vui lòng thử lại sau."
+  },
+  "notFound": {
+    "title": "Không Tìm Thấy Trang",
+    "description": "Không thể tìm thấy trang được yêu cầu",
+    "message": "Rất tiếc! Trang bạn đang tìm kiếm không tồn tại.",
+    "homeButton": "Về Trang Chủ"
+  }
+}
